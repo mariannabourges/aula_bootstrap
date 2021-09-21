@@ -1,0 +1,33 @@
+body{
+    font: 20px Arial, Sans-Serif; 
+}
+
+.navbar{
+    background-color: #78b564;
+}
+
+.quem-somos{
+    background-color: #9696ff;
+    color: white;
+}
+
+.margin{
+   /* padding-top: 50px; /* cria uma margem interna, extendendo o backgroud de quem-somos pra cima*/
+    /*margin-top:30px; cria uma margem externa com um espaço em branco entre quem-somos e a navbar*/
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color:palevioletred;
+    color: white;
+}
+
+.servicos{
+    background-color: violet;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
